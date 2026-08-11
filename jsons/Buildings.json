@@ -7,7 +7,7 @@
     "culture": 9999,
     "food": 9999,
     "science": 9999,
-    "uniques": ["New [Military] units start with [9999] Experience [in this city]",
+    "uniques": ["New [Military] units start with [9999] XP [in this city]",
     "[-999]% construction time for [All] improvements",
     "All newly-trained [Military] units [in this city] receive the [Morale] promotion",
     "Gain [99999] [Gold]"]
